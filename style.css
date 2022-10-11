@@ -1,0 +1,21 @@
+body {
+    background-color:#a4bffa;
+}
+
+h1 {
+    color: blueviolet;
+}
+
+#imagem-principal{
+    margin-left: 30%;
+}
+
+.texto-principal {
+    margin-right: 20%;
+    text-align: center;
+}
+
+li::marker{
+    contain: 🧑;
+    color: blue;
+}
